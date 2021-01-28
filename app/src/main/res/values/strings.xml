@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="roll_label">Roll the Dice</string>
+    <string name="build_by_Mubasher">Build by Mubasher</string>
+    <string name="LOG_MESSAGE_1">i am message</string>
+    <string name="SCREEN_MESSAGE_1">Dice Rolled</string>
+    <string name="DEFUALT_MESSAGE">Hello World Dorset College</string>
+</resources>
